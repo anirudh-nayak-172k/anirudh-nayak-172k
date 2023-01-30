@@ -1,3 +1,5 @@
+[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/software-deve.gif)]
+
 <h1 align="center">Hi there👋, I'm Anirudh Nayak</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" src= "https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
