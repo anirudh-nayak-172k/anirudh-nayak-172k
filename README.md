@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Anirudh Nayak</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src= "https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-nayak-172k&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-nayak-172k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh-nayak-172k" alt="anirudh-nayak-172k" /></a> </p>
