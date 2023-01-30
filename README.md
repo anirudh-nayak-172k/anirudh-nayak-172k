@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif)
 
 <h1 align="center">Hi there👋, I'm Anirudh Nayak</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A professional full stack PERN developer from India</h3>
 <img align="right" alt="Coding" src= "https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-nayak-172k&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-nayak-172k" /> </p>
 
