@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif)]
+![MasterHead](https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif)
 
 <h1 align="center">Hi there👋, I'm Anirudh Nayak</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
