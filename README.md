@@ -25,9 +25,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/anirudhnayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh nayak" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh-nayak-172k&show_icons=true&locale=en&layout=compact" alt="anirudh-nayak-172k" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudh-nayak-172k&show_icons=true&locale=en" alt="anirudh-nayak-172k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-nayak-172k&" alt="anirudh-nayak-172k" /></p>
