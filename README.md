@@ -26,3 +26,5 @@
 <a href="https://linkedin.com/in/anirudhnayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh nayak" height="30" width="40" /></a>
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anirudh-nayak-172k&theme=dracula)](https://git.io/streak-stats)
+
